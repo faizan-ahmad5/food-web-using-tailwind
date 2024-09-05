@@ -11,9 +11,6 @@ This project is a food web application built with React and Vite. It provides a 
 - Search functionality for easy access to favorite dishes
 - Clean and simple footer with navigation links
 
-## Demo
-
-You can view a live demo of the app here: [[https://faizan-ahmad5.github.io/food-web-using-tailwind/](https://faizan-ahmad5.github.io/food-web-using-tailwind/)](#)
 
 ## Tech Stack
 
