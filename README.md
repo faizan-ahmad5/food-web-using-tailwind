@@ -13,7 +13,7 @@ This project is a food web application built with React and Vite. It provides a 
 
 ## Demo
 
-You can view a live demo of the app here: [https://faizan-ahmad5.github.io/food-web-using-tailwind/](#)
+You can view a live demo of the app here: [[https://faizan-ahmad5.github.io/food-web-using-tailwind/](https://faizan-ahmad5.github.io/food-web-using-tailwind/)](#)
 
 ## Tech Stack
 
