@@ -17,7 +17,9 @@ function NavBar() {
       <ul className='flex gap-x-5 justify-center items-center'>
         {navItems.map((item, index) => (
           <li key={index}>
-            <a href={item.href} className='text-gray-600 hover:text-pink-500 font-semibold hover:cursor-pointer' > {item.name} </a>
+            <a href={item.href} className='text-gray-600 hover:text-pink-500 font-semibold hover:cursor-pointer'>
+              {item.name}
+            </a>
           </li>
         ))}
       </ul>
