@@ -100,6 +100,11 @@ const menuCard = [
             }
             </div>
 
+               <footer className='bg--800 text-black py-6'>
+                <div className='container mx-auto flex justify-between items-center'>
+                    <p className='text-lm'>&copy; {new Date().getFullYear()} YourRestaurant. All rights reserved.</p>
+                </div>
+            </footer>
         </section>
     </div>
   );
